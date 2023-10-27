@@ -1,0 +1,26 @@
+p {
+    font-family: 'Courier New', Courier, monospace color: black;
+}
+
+img {
+    border: 10px solid rgb(9, 226, 254);
+    width: 150px;
+    height: 150px;
+    border-radius: 35px 
+}
+
+.img1 {
+    border: 10px solid rgb(9, 226, 254);
+    width: 250px;
+    height: 240px;
+    border-radius: 35px;
+
+}
+
+body {
+    margin: 40px;
+}
+
+marquee {
+    color: brown;
+}
